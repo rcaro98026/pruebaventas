@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>lostres</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ee2d927c-9c83-4076-8571-97482619c634</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3bfab058-f3dd-4934-812b-e3c56a5bf9db</id>
+      <masked>false</masked>
+      <name>nombreusuario</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8e58c72d-d946-4cc5-bf78-8a28822b9044</id>
+      <masked>false</masked>
+      <name>country</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4bfef161-9142-430e-bf8a-12ad2335565b</id>
+      <masked>false</masked>
+      <name>idioma</name>
+   </variable>
+</TestCaseEntity>
